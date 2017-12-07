@@ -1,0 +1,12 @@
+D:\Anaconda3\python.exe D:/Users/Rakesh/PycharmProjects/proj3code/main.py
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+2017-11-19 23:12:52.529412: I C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+Logistic Accuracy on test MNIST data: 0.924
+Logistic Accuracy on USPS data:  0.35745
+Single NN Accuracy on test MNIST data: 0.9685
+Single NN Accuracy on test USPS data: 0.48705
+CNN MNIST test accuracy: 0.9909
+CNN USPS accuracy: 0.66555

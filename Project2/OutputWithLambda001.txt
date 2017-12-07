@@ -1,0 +1,431 @@
+D:\Anaconda3\python.exe D:/Users/Rakesh/PycharmProjects/proj2code/main.py
+##############################
+      LETOR Closed Form       
+##############################
+Training using 'k' =  2  clusters
+Validation error for 'k' =  2  clusters
+0.5654433816437727
+--------------------------
+Training using 'k' =  3  clusters
+Validation error for 'k' =  3  clusters
+0.5639482397796995
+--------------------------
+Training using 'k' =  4  clusters
+Validation error for 'k' =  4  clusters
+0.5647892187171454
+--------------------------
+Training using 'k' =  5  clusters
+Validation error for 'k' =  5  clusters
+0.5647723592485631
+--------------------------
+Training using 'k' =  6  clusters
+Validation error for 'k' =  6  clusters
+0.5652440611666365
+--------------------------
+Training using 'k' =  7  clusters
+Validation error for 'k' =  7  clusters
+0.5657061471157326
+--------------------------
+Training using 'k' =  8  clusters
+Validation error for 'k' =  8  clusters
+0.5659669884106612
+--------------------------
+Training using 'k' =  9  clusters
+Validation error for 'k' =  9  clusters
+0.5660319023096785
+--------------------------
+Training using 'k' =  10  clusters
+Validation error for 'k' =  10  clusters
+0.5672720307938273
+--------------------------
+Training using 'k' =  11  clusters
+Validation error for 'k' =  11  clusters
+0.5680477664153479
+--------------------------
+Training using 'k' =  12  clusters
+Validation error for 'k' =  12  clusters
+0.5675064915087265
+--------------------------
+Training using 'k' =  13  clusters
+Validation error for 'k' =  13  clusters
+0.5703437903594779
+--------------------------
+Training using 'k' =  14  clusters
+Validation error for 'k' =  14  clusters
+0.5696632373569301
+--------------------------
+Training using 'k' =  15  clusters
+Validation error for 'k' =  15  clusters
+0.5705621838648287
+--------------------------
+Training using 'k' =  16  clusters
+Validation error for 'k' =  16  clusters
+0.5699151111319822
+--------------------------
+Training using 'k' =  17  clusters
+Validation error for 'k' =  17  clusters
+0.5706137278663295
+--------------------------
+Training using 'k' =  18  clusters
+Validation error for 'k' =  18  clusters
+0.5703930586792578
+--------------------------
+Training using 'k' =  19  clusters
+Validation error for 'k' =  19  clusters
+0.5705663965792556
+--------------------------
+Training using 'k' =  20  clusters
+Validation error for 'k' =  20  clusters
+0.570475562693114
+--------------------------
+Training using 'k' =  21  clusters
+Validation error for 'k' =  21  clusters
+0.5694042278839886
+--------------------------
+Training using 'k' =  22  clusters
+Validation error for 'k' =  22  clusters
+0.5708044535079375
+--------------------------
+Training using 'k' =  23  clusters
+Validation error for 'k' =  23  clusters
+0.5690028972740461
+--------------------------
+Training using 'k' =  24  clusters
+Validation error for 'k' =  24  clusters
+0.5706346751883078
+--------------------------
+Minimum validate error =  [[ 0.56394824]]
+Hence, optimal number of clusters =  3
+Test data error for optimal number of clusters =  3
+0.5652977605273489
+#################################
+          LETOR SGD              
+#################################
+Training using 'k' =  2  clusters
+Validation error for 'k' =  2  clusters
+0.5653538465140463
+--------------------------
+Training using 'k' =  3  clusters
+Validation error for 'k' =  3  clusters
+0.5653263055418449
+--------------------------
+Training using 'k' =  4  clusters
+Validation error for 'k' =  4  clusters
+0.565322197794429
+--------------------------
+Training using 'k' =  5  clusters
+Validation error for 'k' =  5  clusters
+0.5653184315722851
+--------------------------
+Training using 'k' =  6  clusters
+Validation error for 'k' =  6  clusters
+0.5653229493506515
+--------------------------
+Training using 'k' =  7  clusters
+Validation error for 'k' =  7  clusters
+0.5653189432422796
+--------------------------
+Training using 'k' =  8  clusters
+Validation error for 'k' =  8  clusters
+0.5653175045609855
+--------------------------
+Training using 'k' =  9  clusters
+Validation error for 'k' =  9  clusters
+0.5652917959868983
+--------------------------
+Training using 'k' =  10  clusters
+Validation error for 'k' =  10  clusters
+0.5652752214512714
+--------------------------
+Training using 'k' =  11  clusters
+Validation error for 'k' =  11  clusters
+0.5652653829235266
+--------------------------
+Training using 'k' =  12  clusters
+Validation error for 'k' =  12  clusters
+0.5652684915885386
+--------------------------
+Training using 'k' =  13  clusters
+Validation error for 'k' =  13  clusters
+0.5652688047899093
+--------------------------
+Training using 'k' =  14  clusters
+Validation error for 'k' =  14  clusters
+0.5652652665401466
+--------------------------
+Training using 'k' =  15  clusters
+Validation error for 'k' =  15  clusters
+0.5652701738784814
+--------------------------
+Training using 'k' =  16  clusters
+Validation error for 'k' =  16  clusters
+0.5652486919574627
+--------------------------
+Training using 'k' =  17  clusters
+Validation error for 'k' =  17  clusters
+0.5652487702270057
+--------------------------
+Training using 'k' =  18  clusters
+Validation error for 'k' =  18  clusters
+0.5652493430880638
+--------------------------
+Training using 'k' =  19  clusters
+Validation error for 'k' =  19  clusters
+0.5652425963735555
+--------------------------
+Training using 'k' =  20  clusters
+Validation error for 'k' =  20  clusters
+0.5652360278783295
+--------------------------
+Training using 'k' =  21  clusters
+Validation error for 'k' =  21  clusters
+0.5652657937032391
+--------------------------
+Training using 'k' =  22  clusters
+Validation error for 'k' =  22  clusters
+0.5652231880047849
+--------------------------
+Training using 'k' =  23  clusters
+Validation error for 'k' =  23  clusters
+0.5652276244345258
+--------------------------
+Training using 'k' =  24  clusters
+Validation error for 'k' =  24  clusters
+0.5652198810355814
+--------------------------
+Minimum validate error =  0.5652198810355814
+Hence, optimal number of clusters =  24
+Test data error for optimal number of clusters =  24
+0.565598591661354
+#################################
+     SYNTHETIC Closed Form       
+#################################
+Training using 'k' =  2  clusters
+Validation error for 'k' =  2  clusters
+0.7262349401599345
+--------------------------
+Training using 'k' =  3  clusters
+Validation error for 'k' =  3  clusters
+0.7232800922525918
+--------------------------
+Training using 'k' =  4  clusters
+Validation error for 'k' =  4  clusters
+0.758215657140718
+--------------------------
+Training using 'k' =  5  clusters
+Validation error for 'k' =  5  clusters
+0.7292040425369078
+--------------------------
+Training using 'k' =  6  clusters
+Validation error for 'k' =  6  clusters
+0.7190017604920397
+--------------------------
+Training using 'k' =  7  clusters
+Validation error for 'k' =  7  clusters
+0.7097994276081703
+--------------------------
+Training using 'k' =  8  clusters
+Validation error for 'k' =  8  clusters
+0.7273996060281962
+--------------------------
+Training using 'k' =  9  clusters
+Validation error for 'k' =  9  clusters
+0.7377967459164276
+--------------------------
+Training using 'k' =  10  clusters
+Validation error for 'k' =  10  clusters
+0.7382409226500907
+--------------------------
+Training using 'k' =  11  clusters
+Validation error for 'k' =  11  clusters
+0.7322164608062828
+--------------------------
+Training using 'k' =  12  clusters
+Validation error for 'k' =  12  clusters
+0.7254490436735951
+--------------------------
+Training using 'k' =  13  clusters
+Validation error for 'k' =  13  clusters
+0.7418406467303571
+--------------------------
+Training using 'k' =  14  clusters
+Validation error for 'k' =  14  clusters
+0.7499297100924064
+--------------------------
+Training using 'k' =  15  clusters
+Validation error for 'k' =  15  clusters
+0.7291543866864209
+--------------------------
+Training using 'k' =  16  clusters
+Validation error for 'k' =  16  clusters
+0.7428516013282067
+--------------------------
+Training using 'k' =  17  clusters
+Validation error for 'k' =  17  clusters
+0.7394084643602724
+--------------------------
+Training using 'k' =  18  clusters
+Validation error for 'k' =  18  clusters
+0.735871528791464
+--------------------------
+Training using 'k' =  19  clusters
+Validation error for 'k' =  19  clusters
+0.7443082607215701
+--------------------------
+Training using 'k' =  20  clusters
+Validation error for 'k' =  20  clusters
+0.7571561435793841
+--------------------------
+Training using 'k' =  21  clusters
+Validation error for 'k' =  21  clusters
+0.7423843568144323
+--------------------------
+Training using 'k' =  22  clusters
+Validation error for 'k' =  22  clusters
+0.7994139530721277
+--------------------------
+Training using 'k' =  23  clusters
+Validation error for 'k' =  23  clusters
+0.7494265759835339
+--------------------------
+Training using 'k' =  24  clusters
+Validation error for 'k' =  24  clusters
+0.7603015562645042
+--------------------------
+Minimum validate error =  0.7097994276081703
+Hence, optimal number of clusters =  7
+Test data error for optimal number of clusters =  7
+0.7428178640453662
+#################################
+          SYNTHETIC SGD          
+#################################
+Early stopping, epoch =   435
+Training using 'k' =  2  clusters
+Validation error for 'k' =  2  clusters
+0.7572112705707915
+--------------------------
+Early stopping, epoch =   435
+Training using 'k' =  3  clusters
+Validation error for 'k' =  3  clusters
+0.7571558396145439
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  4  clusters
+Validation error for 'k' =  4  clusters
+0.7572491521527154
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  5  clusters
+Validation error for 'k' =  5  clusters
+0.7572391498079757
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  6  clusters
+Validation error for 'k' =  6  clusters
+0.757279370544419
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  7  clusters
+Validation error for 'k' =  7  clusters
+0.7572830376984061
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  8  clusters
+Validation error for 'k' =  8  clusters
+0.757299343782772
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  9  clusters
+Validation error for 'k' =  9  clusters
+0.7572967359483903
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  10  clusters
+Validation error for 'k' =  10  clusters
+0.7572709250484753
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  11  clusters
+Validation error for 'k' =  11  clusters
+0.7572887021008975
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  12  clusters
+Validation error for 'k' =  12  clusters
+0.7572911723952129
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  13  clusters
+Validation error for 'k' =  13  clusters
+0.7573162008692946
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  14  clusters
+Validation error for 'k' =  14  clusters
+0.7573203133409354
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  15  clusters
+Validation error for 'k' =  15  clusters
+0.7573151804109656
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  16  clusters
+Validation error for 'k' =  16  clusters
+0.7573154711633902
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  17  clusters
+Validation error for 'k' =  17  clusters
+0.7573133987474185
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  18  clusters
+Validation error for 'k' =  18  clusters
+0.7573296126959039
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  19  clusters
+Validation error for 'k' =  19  clusters
+0.7573345770668205
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  20  clusters
+Validation error for 'k' =  20  clusters
+0.7573270193311249
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  21  clusters
+Validation error for 'k' =  21  clusters
+0.7573402490429281
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  22  clusters
+Validation error for 'k' =  22  clusters
+0.7573384931233533
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  23  clusters
+Validation error for 'k' =  23  clusters
+0.757331419261595
+--------------------------
+Early stopping, epoch =   430
+Training using 'k' =  24  clusters
+Validation error for 'k' =  24  clusters
+0.757341726275712
+--------------------------
+Minimum validate error =  0.7571558396145439
+Hence, optimal number of clusters =  3
+Early stopping, epoch =   430
+Test data error for optimal number of clusters =  24
+0.7948324867708371
+--------------------------
+--------------------------
+Optimal Number of Clusters for LETOR Data using Closed form solution =  3
+Erms on LETOR Test Data Set using Closed Form Solution =  0.5652977605273489
+Optimal Number of Clusters for LETOR Data using SGD =  24
+Erms on LETOR Test Data Set using SGD =  0.565598591661354
+Optimal Number of Clusters for Synthetic Data using Closed form Solution =  7
+Erms on Synthetic Test Data Set using Closed Form Solution =  0.7428178640453662
+Optimal Number of Clusters for Synthetic Data using SGD =  3
+Erms on Synthetic Test Data Set using SGD =  0.7948324867708371
